@@ -1,0 +1,117 @@
+html, body {
+  font-family: "Oxygen", sans-serif; 
+  font-weight: 300; 
+  margin: 0;
+  padding: 0;
+  background-image: url('dimonds.png');
+}
+p, h1, h2, h3, h4, h5, h6{
+	color:white;
+}
+.container {
+  max-width: 970px;
+}
+
+.supporting {
+  background-image: url(s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png);
+  background-size: 141px 142px;
+}
+/*Jumbtron section*/
+
+.jumbotron {
+	background-color: #000;
+	height: 600px;
+
+}
+.jumbotron .btn {
+	margin-left: 30px;
+}
+
+.jumbotron h1 {
+	color:white;
+	text-align: center;
+}
+.main {
+	text-align: center;
+}
+
+/*The Button*/
+ .learn-more{
+	margin-bottom: 133px;
+	background:transparent; 
+	    border: 1px solid #0393ff;
+}
+
+li {
+	display: inline;
+	list-style: none;
+}
+.btn {
+	    color: #0393ff;
+    background: transparent;
+    border: 1px solid #0393ff;
+    border-radius: 2px;
+    padding: 8px 20px;
+}
+.header {
+color: #fff;
+
+}
+#search {
+	    background: transparent;
+    border: 0px;
+    border-radius: 0;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-size: 18px;
+    margin: 0 20px;
+    width: 400px;
+	}
+
+/*Feature section*/
+
+
+.feature {
+	background-image: url('phone.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 380px;
+	padding:100px 0 0 0;
+}
+.thumbnail>img {
+	margin-right: auto;
+	margin-left: auto;
+}
+.thumbnail{
+	width: 100%;
+	border:none;
+	background-color: transparent;
+}
+
+
+/*This is the footer section*/
+
+
+
+.footer {
+	background-color: #000;
+	padding:60px 0;
+	text-align: center;
+}
+.footer li {
+	display: block;
+
+}
+
+.footer ul {
+	    color: #0393ff;
+}
+
+
+h2 {
+	    color: #0393ff;
+}
+
+
+
+
